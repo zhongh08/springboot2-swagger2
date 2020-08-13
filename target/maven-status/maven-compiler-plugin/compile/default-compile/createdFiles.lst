@@ -1,0 +1,4 @@
+com\syoki\springboot2swagger2\controller\UserController.class
+com\syoki\springboot2swagger2\Springboot2Swagger2Application.class
+com\syoki\springboot2swagger2\conf\Swagger2.class
+com\syoki\springboot2swagger2\model\User.class
